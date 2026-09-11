@@ -8,7 +8,7 @@ https://github.com/amantypingtutor/Aman-Typing-Tutor-App/releases/download/v1.0.
 ### India's Most Accurate & 100% Free Hindi-English Typing Practice Platform for Govt Exams
 
 [![Website](https://img.shields.io/badge/🌐_Website-Live-brightgreen?style=for-the-badge)](https://aman-typing-tutor.vercel.app)
-[![Download APK](https://img.shields.io/badge/📥_Download-APK-blue?style=for-the-badge)](https://github.com/amantypingtutor/Aman-Typing-Tutor-App/releases/latest)
+[![Download APK](https://img.shields.io/badge/📥_Download-APK-blue?style=for-the-badge)](https://github.com/amantypingtutor/Aman-Typing-Tutor-App/releases/download/v1.0.0/app-release.apk)
 [![Telegram](https://img.shields.io/badge/📢_Telegram-Join-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/amantypingtutor)
 [![YouTube](https://img.shields.io/badge/📺_YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtube.com/@amantypingtutor)
 
