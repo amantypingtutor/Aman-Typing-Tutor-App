@@ -185,9 +185,7 @@ Aman Typing Tutor, Aman Typing Tutor APK, Aman Typing Tutor App Download, All In
 
 ---
 
-## 🏷️ GitHub Repository Topics (Settings → About → Topics)
 
-इन्हें repo के "About" सेक्शन में **Topics** के रूप में जोड़ें ताकि GitHub search और Google दोनों में बेहतर रैंक मिले:
 
 ```
 typing-test typing-tutor hindi-typing english-typing ssc-cgl ssc-typing
@@ -197,8 +195,7 @@ capacitor-app pwa data-entry-skill-test dest typing-app india
 free-typing-test edtech govt-job-preparation
 ```
 
-> Repo के **About → Description** में भी यह एक-लाइन डालें (Google snippet के लिए काम आता है):
-> `Free Hindi-English typing test platform for SSC CGL, RRB NTPC, BSSC & other govt exams — real exam interface, official scoring, KrutiDev/Mangal/DevLys support.`
+
 
 ---
 
